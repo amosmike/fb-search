@@ -27,12 +27,18 @@ share/python-wheels/
 *.egg
 MANIFEST
 milestone-1/
+*.pem
+
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
+*.pem
+/.pem
+/Users/michaelamos/Documents/AICore/Remote-Reps/fb-search/fb-search/530ba808-8b65-49fe-93ff-92417f96e428_MetaMarketplaceMLEng.pem
+
 
 # Installer logs
 pip-log.txt
