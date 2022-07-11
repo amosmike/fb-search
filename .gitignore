@@ -35,9 +35,9 @@ milestone-1/
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
-*.pem
+/*.pem
 /.pem
-/Users/michaelamos/Documents/AICore/Remote-Reps/fb-search/fb-search/530ba808-8b65-49fe-93ff-92417f96e428_MetaMarketplaceMLEng.pem
+/530ba808-8b65-49fe-93ff-92417f96e428_MetaMarketplaceMLEng.pem
 
 
 # Installer logs
