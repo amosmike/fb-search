@@ -28,6 +28,7 @@ share/python-wheels/
 MANIFEST
 milestone-1/
 *.pem
+/.SD_Store
 
 
 # PyInstaller
