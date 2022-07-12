@@ -38,7 +38,7 @@ milestone-1/
 *.spec
 /*.pem
 /.pem
-/530ba808-8b65-49fe-93ff-92417f96e428_MetaMarketplaceMLEng.pem
+*.DS_Store
 
 
 # Installer logs
