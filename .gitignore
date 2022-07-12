@@ -38,7 +38,7 @@ milestone-1/
 *.spec
 /*.pem
 /.pem
-*.DS_Store
+*/.DS_Store
 
 
 # Installer logs
