@@ -12,7 +12,7 @@ NOTE: Not included here due to size
 
 ## Data Preparation
 In order to prepare the data for training purposes it was required to both cleanse Tabular data and merge. 
-<-! In addition, a holdout sample of the images was created for downstream testing of the API. ->
+<!-- In addition, a holdout sample of the images was created for downstream testing of the API. -->
 
 The following programs were created to prodvide the nescessary fucntionality for cleansing the data:
 
@@ -37,8 +37,6 @@ NOTE: 'cleansed_product_images.npy' also output in order to build and train mode
 Model has an accuracy of 0.09.
 Improvements: Increase image size. 
 
-<-! Lessons Learnt 
+<!-- Lessons Learnt 
 Downloading programms on ubuntu:
-sudo sudo apt install python3-opencv-python
-
--> 
+sudo sudo apt install python3-opencv-python --> 
